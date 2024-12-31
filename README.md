@@ -111,4 +111,4 @@ Las contribuciones son bienvenidas.
 
 ---
 
-Este archivo `README.md` contiene toda la información necesaria para configurar y ejecutar el proyecto, explica el uso de BLoC para la gestión de estado y documenta las decisiones técnicas relevantes, como validaciones y el uso de widgets personalizados. ¡Espero que sea lo que necesitas!
+Este archivo `README.md` contiene toda la información necesaria para configurar y ejecutar el proyecto, explica el uso de BLoC para la gestión de estado y documenta las decisiones técnicas relevantes, como validaciones y el uso de widgets personalizados.
