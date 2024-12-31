@@ -16,7 +16,7 @@ Para ejecutar esta aplicación, asegúrate de tener instalados los siguientes pr
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/anamnesis_app.git
+   git clone https://github.com/killver/anamnesis_app.git
    ```
 2. Accede al directorio del proyecto:
    ```bash
